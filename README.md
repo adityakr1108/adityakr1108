@@ -1,99 +1,89 @@
-<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
+<h1 align="center">Hey there 👋, I'm Aditya Kumar</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Explorer+%F0%9F%9A%80;Problem+Solver+%F0%9F%94%A5;Code+%E2%9D%A4%EF%B8%8F+Coffee+%E2%98%95;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
-
----
-
-## 🙋‍♂️ About Me
-
-- 🎓 Pursuing my degree at **Lovely Professional University**, Punjab.
-- 🏠 Currently working from **home**, focused on impactful tech.
-- 🔭 Passionate about **AI**, **IoT**, and **Full Stack Development**.
-- 🧠 Learning and building projects with **Python**, **Flutter**, **Spring Boot**, and **MongoDB**.
-- 🌱 I’m currently improving my skills in **LLMs** and **NLP**.
-- 📫 Reach me at: **aditya.kr.agrawal11082@gmail.com**
-- 🧾 ORCID ID: [0009-0002-3807-4104](https://orcid.org/0009-0002-3807-4104)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=AI+Explorer+%F0%9F%9A%80;Flutter+%7C+SpringBoot+Developer+%F0%9F%94%A5;Code.+Create.+Innovate." alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 About Me
+
+- 💡 I love building smart apps powered by AI & LLMs.
+- 🧠 Currently exploring deep into **Flutter**, **Gemini AI**, and **Spring Boot**.
+- 🔭 Building a Smart AI Voice Assistant that extracts action items & automates your calendar.
+- 🎓 Pursuing my degree at **Lovely Professional University**.
+- 📫 Email me at **aditya.kr.agrawal11082@gmail.com**
+- 🌐 [LinkedIn](https://www.linkedin.com/in/aditya-kumar-11082003-babua/)
+
+---
+
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 📱 Featured Project
+
+### 🎤 [Smart AI Voice Assistant](https://github.com/adityakr1108/Smart-AI-Voice-Assistant-Mobile-App)
+
+> A mobile app that records conversations, transcribes speech, extracts action items with Gemini AI, and creates calendar reminders.
+
+🚀 Features:
+- 🎙️ Voice-to-text using Android APIs  
+- 🧠 Gemini-based NLP task extraction  
+- 📅 Auto date & time parsing  
+- 🪄 Smart task creation with reminders  
+- 🔐 User login and task history with Firebase
+
+> ⚙️ Stack: Flutter, Kotlin, Firebase, Gemini, Python (LLM)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakr1108&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github.com/adityakr1108/Smart-AI-Voice-Assistant-Mobile-App/blob/main/assets/demo.gif?raw=true" width="300" alt="App Demo"/>
+</p>
+
+---
+
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aditya_Kumar_1108?theme=dark&font=Baloo+Bhai" alt="LeetCode Stats Card" />
+</p>
+
+---
+
+## 🧠 Quote I Live By
+
+> *“Code like there’s no bug, debug like there’s no deadline.”*
+
+---
+
+## 🧩 GitHub Stats & Graph
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityakr1108&show_icons=true&theme=radical&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakr1108&layout=compact&theme=radical" height="180"/>
 </p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityakr1108&theme=radical&row=1&no-bg=true&no-frame=true" />
-</p>
-
----
-
-### 📊 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakr1108&theme=radical&area=true&hide_border=true" />
 </p>
 
-
-## 📚 Featured Projects
-
-### 🔹 [Query Management System](https://github.com/adityakr1108/Query-Management)
-A full-stack web application for managing user queries with admin and user roles, built using React, Node.js, Express, and MongoDB. It features secure authentication, real-time query tracking, and a clean, responsive UI that improves the way organizations handle customer issues and feedback.
-
-> 🛠️ Tech: Node.js, Express, MongoDB
-
 ---
 
-### 🔹 [Smart AI Voice Assistant Mobile App](https://github.com/adityakr1108/Smart-AI-Voice-Assistant-Mobile-App)
-A mobile voice assistant that records and transcribes conversations, extracts key tasks, and integrates with calendar and notification systems.
+## ⚡ Cool Developer Vibes
 
-> 🧠 Features:
-> - 📱 Speech-to-text transcription using Android APIs  
-> - 📝 Action item extraction using Gemini AI  
-> - ⏰ Auto date/time detection and task reminders  
-> - 📊 Task history with Firebase integration  
-> - 👥 Login system to differentiate users
-
-> 🛠️ Tech: Flutter, Kotlin, Android Studio, Firebase, Gemini API, Python (LLMs)
-
----
-
-## 🧑‍💻 LeetCode Stats
-
-- **Profile**: [aditya_Kumar_1108](https://leetcode.com/u/aditya_Kumar_1108/)
-- **Total Problems Solved**: 274
-  - **Java**: 221 problems solved
-  - **C++**: 39 problems solved
-  - **MySQL**: 14 problems solved
-- **Contest Rating**: 1,401
-- **Global Ranking**: 580,532 out of 683,447
-- **Skills**:
-  - **Advanced**: Dynamic Programming (27 problems), Backtracking (18), Divide and Conquer (8)
-  - **Intermediate**: Hash Table (48), Math (35), Tree (29)
-  - **Fundamental**: Array (141), String (55), Two Pointers (36)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation" />
+</p>
 
 ---
 
@@ -105,11 +95,4 @@ A mobile voice assistant that records and transcribes conversations, extracts ke
 
 ---
 
-### 🧠 *“Code like there’s no bug, debug like there’s no deadline.”*
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</div>
-
----
-
+<p align="center"><b>Thanks for stopping by! Happy coding 💻✨</b></p>
