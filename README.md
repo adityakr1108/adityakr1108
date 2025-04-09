@@ -20,41 +20,40 @@
 <h2 align="center">🚀 Tech Stack I Work With</h2>
 
 <style>
-  .tech-grid {
+  .animated-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 35px;
-    justify-items: center;
-    align-items: center;
+    gap: 30px;
     padding: 30px;
     max-width: 600px;
     margin: auto;
-    background: #0d1117;
+    background-color: #0d1117;
     border-radius: 20px;
     border: 2px solid #00f7ff;
-    box-shadow: 0 0 30px rgba(0, 247, 255, 0.2);
+    box-shadow: 0 0 25px rgba(0, 247, 255, 0.2);
   }
 
   .tech-icon {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-    animation: floaty 3s ease-in-out infinite;
+    animation: floatUpDown 3s ease-in-out infinite;
   }
 
   .tech-icon:hover {
     transform: scale(1.2);
-    box-shadow: 0 0 20px rgba(0, 247, 255, 0.4);
+    box-shadow: 0 0 15px rgba(0, 247, 255, 0.5);
   }
 
-  @keyframes floaty {
-    0% { transform: translateY(0px); }
+  @keyframes floatUpDown {
+    0% { transform: translateY(0); }
     50% { transform: translateY(-8px); }
-    100% { transform: translateY(0px); }
+    100% { transform: translateY(0); }
   }
 </style>
 
-<div class="tech-grid">
+<!-- Icon Grid Container with Animation -->
+<div class="animated-grid">
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -71,6 +70,7 @@
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </div>
+
 
 ## 📱 Featured Project
 
