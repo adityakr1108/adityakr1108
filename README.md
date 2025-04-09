@@ -17,60 +17,27 @@
 
 ---
 
-<h2 align="center">🚀 Tech Stack I Work With</h2>
+## 🚀 Tech Stack I Work With
 
-<style>
-  .animated-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 30px;
-    padding: 30px;
-    max-width: 600px;
-    margin: auto;
-    background-color: #0d1117;
-    border-radius: 20px;
-    border: 2px solid #00f7ff;
-    box-shadow: 0 0 25px rgba(0, 247, 255, 0.2);
-  }
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="margin:15px; animation: float 4s ease-in-out infinite;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" style="margin:15px; animation: float 4s ease-in-out infinite;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" style="margin:15px; animation: float 4s ease-in-out infinite;" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" style="margin:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" style="margin:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" style="margin:15px;" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" style="margin:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" style="margin:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" style="margin:15px;" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" style="margin:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" style="margin:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" style="margin:15px;" />
+</p>
 
-  .tech-icon {
-    width: 50px;
-    height: 50px;
-    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-    animation: floatUpDown 3s ease-in-out infinite;
-  }
-
-  .tech-icon:hover {
-    transform: scale(1.2);
-    box-shadow: 0 0 15px rgba(0, 247, 255, 0.5);
-  }
-
-  @keyframes floatUpDown {
-    0% { transform: translateY(0); }
-    50% { transform: translateY(-8px); }
-    100% { transform: translateY(0); }
-  }
-</style>
-
-<!-- Icon Grid Container with Animation -->
-<div class="animated-grid">
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-</div>
-
+---
 
 ## 📱 Featured Project
 
@@ -96,7 +63,7 @@
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aditya_Kumar_1108?theme=dark&font=Baloo+Bhai" alt="LeetCode Stats Card" />
+  <img src="https://leetcard.jacoblin.cool/aditya_Kumar_1108?theme=dark&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats Card" />
 </p>
 
 ---
