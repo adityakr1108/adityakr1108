@@ -17,61 +17,37 @@
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center">👨‍💻 Mobile App & Backend Developer</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=My+Weapons+of+Choice+🛠️+🚀" alt="Typing SVG" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 600px; margin: auto; padding: 20px; border: 2px solid #00f7ff; border-radius: 15px; box-shadow: 0 0 20px rgba(0,255,255,0.2);">
 
----
+  <!-- One circular tech icon -->
+  <div style="width: 100px; height: 100px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" />
+  </div>
 
-### 🌐 Web Development
-🚀 Building blazing-fast, scalable web experiences  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+  <div style="width: 100px; height: 100px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" />
+  </div>
 
----
+  <div style="width: 100px; height: 100px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" />
+  </div>
 
-### 📱 Mobile App Development  
-📲 Smooth UIs meet powerful AI brains  
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-</p>
+  <div style="width: 100px; height: 100px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" />
+  </div>
 
----
+  <div style="width: 100px; height: 100px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+  </div>
 
-### 🧠 Backend & Cloud  
-⚙️ All the logic behind the scenes  
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+  <div style="width: 100px; height: 100px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
+  </div>
 
----
+</div>
 
-### 💡 Programming & DSA  
-🧠 Problem-solver & logic builder  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</p>
----
 
 ## 📱 Featured Project
 
