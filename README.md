@@ -51,10 +51,17 @@
 
 ---
 
+### 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakr1108&theme=radical&area=true&hide_border=true" />
+</p>
+
+
 ## 📚 Featured Projects
 
 ### 🔹 [Query Management System](https://github.com/adityakr1108/Query-Management)
-A role-based ticketing system with admin and user panels for managing queries efficiently.
+A full-stack web application for managing user queries with admin and user roles, built using React, Node.js, Express, and MongoDB. It features secure authentication, real-time query tracking, and a clean, responsive UI that improves the way organizations handle customer issues and feedback.
 
 > 🛠️ Tech: Node.js, Express, MongoDB
 
@@ -106,8 +113,3 @@ A mobile voice assistant that records and transcribes conversations, extracts ke
 
 ---
 
-### 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakr1108&theme=radical&area=true&hide_border=true" />
-</p>
