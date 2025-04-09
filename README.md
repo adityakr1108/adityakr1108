@@ -17,37 +17,54 @@
 
 ---
 
-<h2 align="center">👨‍💻 Mobile App & Backend Developer</h2>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 750px; margin: auto; padding: 25px; border: 2px solid #00f7ff; border-radius: 20px; background-color: #0d1117; box-shadow: 0 0 20px rgba(0, 247, 255, 0.4);">
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 600px; margin: auto; padding: 20px; border: 2px solid #00f7ff; border-radius: 15px; box-shadow: 0 0 20px rgba(0,255,255,0.2);">
-
-  <!-- One circular tech icon -->
-  <div style="width: 100px; height: 100px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" />
+  <!-- Tech bubbles (random visual distribution) -->
+  <div style="width: 90px; height: 90px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   </div>
 
-  <div style="width: 100px; height: 100px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" />
+  <div style="width: 90px; height: 90px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   </div>
 
-  <div style="width: 100px; height: 100px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" />
+  <div style="width: 90px; height: 90px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
   </div>
 
-  <div style="width: 100px; height: 100px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" />
+  <div style="width: 90px; height: 90px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
   </div>
 
-  <div style="width: 100px; height: 100px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+  <div style="width: 90px; height: 90px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" />
   </div>
 
-  <div style="width: 100px; height: 100px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
+  <div style="width: 90px; height: 90px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
+  </div>
+
+  <div style="width: 90px; height: 90px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  </div>
+
+  <div style="width: 90px; height: 90px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  </div>
+
+  <div style="width: 90px; height: 90px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  </div>
+
+  <div style="width: 90px; height: 90px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  </div>
+
+  <div style="width: 90px; height: 90px; border-radius: 50%; background-color: #1e1e2f; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00f7ff;">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
   </div>
 
 </div>
-
 
 ## 📱 Featured Project
 
