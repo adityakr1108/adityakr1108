@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Aditya Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=AI+Explorer+%F0%9F%9A%80;FullStack+%7C+SpringBoot+Developer+%F0%9F%94%A5;Code.+Create.+Innovate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=AI+Explorer+%F0%9F%9A%80;+SpringBoot+Developer+%F0%9F%94%A5;Code.+Create.+Innovate." alt="Typing SVG" />
 </p>
 
 ---
@@ -19,25 +19,57 @@
 
 <h2 align="center">🚀 Tech Stack I Work With</h2>
 
-<!-- Icon Grid Container -->
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; padding: 30px; max-width: 600px; margin: auto; background-color: #0d1117; border-radius: 20px; border: 2px solid #00f7ff; box-shadow: 0 0 25px rgba(0, 247, 255, 0.2);">
+<style>
+  .tech-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 35px;
+    justify-items: center;
+    align-items: center;
+    padding: 30px;
+    max-width: 600px;
+    margin: auto;
+    background: #0d1117;
+    border-radius: 20px;
+    border: 2px solid #00f7ff;
+    box-shadow: 0 0 30px rgba(0, 247, 255, 0.2);
+  }
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
+  .tech-icon {
+    width: 60px;
+    height: 60px;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    animation: floaty 3s ease-in-out infinite;
+  }
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" />
+  .tech-icon:hover {
+    transform: scale(1.2);
+    box-shadow: 0 0 20px rgba(0, 247, 255, 0.4);
+  }
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+  @keyframes floaty {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-8px); }
+    100% { transform: translateY(0px); }
+  }
+</style>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
+<div class="tech-grid">
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </div>
 
 ## 📱 Featured Project
